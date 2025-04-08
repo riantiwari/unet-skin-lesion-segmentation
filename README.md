@@ -160,5 +160,5 @@ You can either:
 
 ## 🔗 Let's Connect
 
-Built with 💻 + ❤️ by [@riantiwari](https://github.com/riantiwari)  
+Built by [@riantiwari](https://github.com/riantiwari)  
 Drop a ⭐ if this helps your journey in medical AI!

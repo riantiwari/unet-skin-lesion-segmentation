@@ -30,7 +30,7 @@ The **International Skin Imaging Collaboration (ISIC)** created the 2018 challen
 
 | Input Image       | Ground Truth Mask     | Predicted Mask         |
 |-------------------|-----------------------|-------------------------|
-| ![Input](assets/input_img.png) | ![GT](assets/gt_img.png) | ![Pred](assets/pred_img.png) |
+| ![Input](input_img.png) | ![GT](gt_img.png) | ![Pred](pred_img.png) |
 
 > *Above: The predicted segmentation closely aligns with the annotated ground truth.*
 

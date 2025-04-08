@@ -28,7 +28,7 @@ The **International Skin Imaging Collaboration (ISIC)** hosted the 2018 challeng
 
 | Input Image | Ground Truth | Predicted Mask |
 |-------------|---------------|----------------|
-| ![Input]() | ![GT]() | ![Pred]() |
+| ![Input](input_img.png) | ![GT](gt_img.png) | ![Pred](pred_img.png) |
 
 *Above: Model prediction closely matches the ground truth lesion mask.*
 
